@@ -19,8 +19,7 @@ _\ \ | | | | \__ \/ \/  \ (_) | | | | | | |_) |  __/ |
                                                                                                                                                                                              _____                    
 
 ________________________
-+t.Me/Termux_learning
-+ coding by Mobin-Dan:)
+
 
 """)
 def snap(phone):
